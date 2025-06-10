@@ -16,7 +16,7 @@ Clean and responsive UI
 
 # Tech Stack:
 React.js (with Hooks)
-CSS
+css
 
 #  OpenWeatherMap API
 
