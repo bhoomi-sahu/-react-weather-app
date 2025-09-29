@@ -6,6 +6,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Currently, two official plugins are available:
 
 #  Weather App (React.js)
+click here!
+https://bhoomi-sahu.github.io/My-weather-app-react/    
 A responsive Weather App built using React.js and OpenWeatherMap API. This app allows users to check the current weather for any city around the world with live data updates.
 
 # Features:
