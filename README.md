@@ -24,3 +24,4 @@ css
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="859" height="951" alt="image" src="https://github.com/user-attachments/assets/7b511d7b-d9f9-4450-8fc8-1f24e460d673" />
